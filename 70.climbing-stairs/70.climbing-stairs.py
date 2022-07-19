@@ -4,6 +4,7 @@
 # [70] Climbing Stairs
 #
 
+# https://youtu.be/Y0lT9Fck7qI
 # @lc code=start
 class Solution:
     def climbStairs(self, n: int) -> int:
@@ -19,4 +20,4 @@ class Solution:
 # @lc code=end
 
 a = Solution()
-print(a.climbStairs(5))
+print(a.climbStairs(6))
